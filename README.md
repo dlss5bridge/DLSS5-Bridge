@@ -4,6 +4,7 @@
 
 <img width="1672" height="941" alt="ChatGPT Image 10 сент  2026 г , 17_46_32" src="https://github.com/user-attachments/assets/00b14861-77d5-47ea-a4aa-6cee15a73c69" />
 
+<img width="738" height="414" alt="image" src="https://github.com/user-attachments/assets/924b1fe6-b37b-4576-b0ef-708694bdda12" />
 
 ## What's new in v1.0.0 (September 10, 2026)
 - Bridge install path
